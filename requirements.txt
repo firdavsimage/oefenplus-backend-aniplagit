@@ -1,0 +1,4 @@
+flask
+flask-cors
+docx2txt
+PyPDF2
